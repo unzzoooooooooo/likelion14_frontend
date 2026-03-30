@@ -1,0 +1,65 @@
+/* 전체 페이지 기본 설정 */
+body {
+    background-color: #e2ffe1c6;
+    font-family: Arial, sans-serif;
+    margin: 50px 250px 150px 250px;
+}
+
+/* 제목 스타일 */
+h1 {
+    color: #0c6dce;
+}
+
+h2 {
+    color: #a376e2;
+}
+
+h3 {
+    color: pink;
+}
+
+/* 문단 스타일 */
+p {
+    color: #333;
+    line-height: 1.6;
+}
+
+/* div 영역 꾸미기 */
+div {
+    background-color: #ffe0e0a4;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+
+/* span은 인라인 요소라는 걸 보여주기 위해 색만 변경 */
+span {
+    color: hotpink;
+    font-weight: bold;
+}
+
+/* 목록 스타일 */
+ul {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+li {
+    margin: 20px;
+}
+
+/* 버튼 꾸미기 */
+button {
+    background-color: #0984e3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+/* 버튼에 마우스를 올렸을 때 */
+button:hover {
+    background-color: #0652dd;
+}
