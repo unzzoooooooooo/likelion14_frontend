@@ -47,7 +47,7 @@ function App() {
             </li>
             <li>
               <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
+                <img className="button-icon" src={reactLogo} alt="리엑트" />
                 Learn more
               </a>
             </li>
